@@ -1,0 +1,1 @@
+This is a Task Management API built using Django and Django REST Framework. It allows users to create, update, delete, and manage tasks, with features like user authentication, task filtering, and task status management. The project follows RESTful design principles and is deployed on Heroku.
